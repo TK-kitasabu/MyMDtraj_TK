@@ -1,0 +1,67 @@
+{
+    "molecule_name": {
+        "mol_name"    : "mol",
+        "b_factor_min": "num",
+        "b_factor_max": "num",
+        "turn_angle_x": "angle",
+        "turn_angle_x": "angle",
+        "turn_angle_x": "angle"
+    },
+    "C1B": {
+        "mol_name"    : "C1-BOE",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 0,
+        "turn_angle_y": 90,
+        "turn_angle_z": 0
+    },
+    "C2B": {
+        "mol_name"    : "C2-BOE",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 90,
+        "turn_angle_y": 0,
+        "turn_angle_z": 0
+    },
+    "C3B": {
+        "mol_name"    : "none",
+        "b_factor_min": "none",
+        "b_factor_max": "none",
+        "turn_angle_x": "none",
+        "turn_angle_y": "none",
+        "turn_angle_z": "none"
+    },
+    "U2N": {
+        "mol_name"    : "UUZU-2N",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 90,
+        "turn_angle_y": 0,
+        "turn_angle_z": 0
+    },
+    "U3N": {
+        "mol_name"    : "UUZU-3N",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 90,
+        "turn_angle_y": 0,
+        "turn_angle_z": 90
+    },
+    "C0D": {
+        "mol_name"    : "C0-DIO",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 0,
+        "turn_angle_y": 90,
+        "turn_angle_z": 0
+    },
+    "RM1": {
+        "mol_name"    : "RM734",
+        "b_factor_min": 0,
+        "b_factor_max": 40,
+        "turn_angle_x": 0,
+        "turn_angle_y": 0,
+        "turn_angle_z": 0
+    }
+}
+
